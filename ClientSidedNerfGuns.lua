@@ -1,4 +1,4 @@
-require(game:GetService("ReplicatedStorage").Game.Notification).new({Text = "Because of Proxide's retarded ass, server sided nerf guns have been patched, enjoy the shitty client sided ones.", Duration = 5})
+require(game:GetService("ReplicatedStorage").Game.Notification).new({Text = "Because of Proxide's retarded ass, server sided nerf guns have been patched, enjoy the shitty client sided ones.", Duration = 7})
 
 local np = game:GetService("ReplicatedStorage").Resource.ItemSystem.Models.NerfPistol
 local nr = game:GetService("ReplicatedStorage").Resource.ItemSystem.Models.NerfRevolver
